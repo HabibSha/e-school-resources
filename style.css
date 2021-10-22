@@ -42,6 +42,15 @@ body{
 .btn:hover{
     color: white;
 }
-.shortcut{
-    width: 230px;
+.service-image{
+    width: 100px !important;
+    margin-top: 20px;
+}
+.services{
+    padding: 20px;
+}
+.services h4{
+    padding: 5px;
+    margin-top: 55px;
+    color: black;
 }
