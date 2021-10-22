@@ -1,7 +1,7 @@
 body{
     padding: 0;
     margin: 0;
-    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .top-bar{
     background: #F0FFF0;
@@ -48,9 +48,49 @@ body{
 }
 .services{
     padding: 20px;
+    background: #F0FFF0;
 }
 .services h4{
     padding: 5px;
     margin-top: 55px;
     color: black;
+}
+.container h5{
+    color: #413960;
+}
+.card-footer img{
+    width: 30px;
+    float: left;
+}
+.card-footer p{
+    margin-top: 7px;
+    margin-right: 55px;
+}
+.card-footer #next{
+    margin-right: 0px;
+}
+.card-footer{
+    border: none;
+    background: white;
+}
+.col{
+    border: 0px solid white;
+    padding: 20px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 15px;
+}
+#last img{
+    width: 100px;
+}
+#last p{
+    color: black;
+}
+#white p{
+    color: white;
+}
+.bottom-bar{
+    background: #282531;
+}
+footer{
+
 }
